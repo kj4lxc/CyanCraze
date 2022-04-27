@@ -5,7 +5,7 @@
 
 <a href="https://www.buymeacoffee.com/maartenpaauw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-> The Template Theme by Maarten Paauw
+> The Cyan Craze Theme by Chase Eller
 
 ## Screenshots
 
@@ -49,7 +49,7 @@ frontend:
 ```
 
 2. Go to the Community Store.
-3. Search for `Template`.
-4. Navigate to `Template` theme.
+3. Search for `Cyan Craze`.
+4. Navigate to `Cyan Craze` theme.
 5. Press `Install`.
 6. Go to services and trigger the `frontend.reload_themes` service.
